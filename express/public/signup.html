@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>POSTING</title>
+</head>
+<body>
+    Hey handsome Check console
+    <script>
+        async function postMethod() {
+            let req = await fetch("/", {method: "POST"});
+            let data = await req.text();
+            console.log(data);
+        }
+        postMethod()
+    </script>
+</body>
+</html>
