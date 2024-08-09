@@ -1,9 +1,12 @@
 const express = require('express')
+const computer = require('./routes/computer') //loading routers
 const app = express()
 const port = 3000
 
-//to allow user to access static files, put it in dir
+//middleware used to allow user to access static files, put it in dir
 app.use(express.static('public'))
+//to use computer directories
+app.use('/computer', computer) // all the computer dir will be handle by computer route 
 
 app.get('/', (req, res) => {
     res.send(`Hello Za World!`)

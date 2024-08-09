@@ -1,0 +1,1 @@
+routes are used to handle different routes regarding one thing. A blog can have about, details about
