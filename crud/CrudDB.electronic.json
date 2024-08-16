@@ -1,0 +1,147 @@
+[{
+  "_id": {
+    "$oid": "66bf3a2fc66d12b00959b947"
+  },
+  "name": "Fridge",
+  "price": 4000
+},
+{
+  "_id": {
+    "$oid": "66bf3a3ef707e3ba22d1abd1"
+  },
+  "name": "Fridge",
+  "price": 4000
+},
+{
+  "_id": {
+    "$oid": "66bf3adc0ab330b9cfa26005"
+  },
+  "name": "Fridge",
+  "price": 4000
+},
+{
+  "_id": {
+    "$oid": "66bf3adc0ab330b9cfa26006"
+  },
+  "name": "Microwave",
+  "price": 1500
+},
+{
+  "_id": {
+    "$oid": "66bf3adc0ab330b9cfa26007"
+  },
+  "name": "Washing Machine",
+  "price": 3000
+},
+{
+  "_id": {
+    "$oid": "66bf3adc0ab330b9cfa26008"
+  },
+  "name": "Air Conditioner",
+  "price": 5000
+},
+{
+  "_id": {
+    "$oid": "66bf3adc0ab330b9cfa26009"
+  },
+  "name": "Television",
+  "price": 2500
+},
+{
+  "_id": {
+    "$oid": "66bf3adc0ab330b9cfa2600a"
+  },
+  "name": "Blender",
+  "price": 800
+},
+{
+  "_id": {
+    "$oid": "66bf3adc0ab330b9cfa2600b"
+  },
+  "name": "Oven",
+  "price": 2000
+},
+{
+  "_id": {
+    "$oid": "66bf3adc0ab330b9cfa2600c"
+  },
+  "name": "Toaster",
+  "price": 800
+},
+{
+  "_id": {
+    "$oid": "66bf3adc0ab330b9cfa2600d"
+  },
+  "name": "Dishwasher",
+  "price": 3500
+},
+{
+  "_id": {
+    "$oid": "66bf3db0932c88b7addc92ff"
+  },
+  "name": "Fridge",
+  "price": 4000
+},
+{
+  "_id": {
+    "$oid": "66bf3db0932c88b7addc9300"
+  },
+  "name": "Microwave",
+  "price": 1500
+},
+{
+  "_id": {
+    "$oid": "66bf3db0932c88b7addc9301"
+  },
+  "name": "Washing Machine",
+  "price": 3000
+},
+{
+  "_id": {
+    "$oid": "66bf3db0932c88b7addc9302"
+  },
+  "name": "Air Conditioner",
+  "price": 5000
+},
+{
+  "_id": {
+    "$oid": "66bf3db0932c88b7addc9303"
+  },
+  "name": "Television",
+  "price": 2500
+},
+{
+  "_id": {
+    "$oid": "66bf3db0932c88b7addc9304"
+  },
+  "name": "Blender",
+  "price": 800
+},
+{
+  "_id": {
+    "$oid": "66bf3db0932c88b7addc9305"
+  },
+  "name": "Oven",
+  "price": 2000
+},
+{
+  "_id": {
+    "$oid": "66bf3db0932c88b7addc9306"
+  },
+  "name": "Toaster",
+  "price": 600
+},
+{
+  "_id": {
+    "$oid": "66bf3db0932c88b7addc9307"
+  },
+  "name": "Dishwasher",
+  "price": 3500
+},
+{
+  "_id": {
+    "$oid": "66bf3db0932c88b7addc9308"
+  },
+  "name": "Vacuum Cleaner",
+  "price": 1200
+}]
