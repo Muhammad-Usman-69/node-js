@@ -1,0 +1,3 @@
+moongose input ka data type validate krwata ha
+
+https://mongoosejs.com/docs/
