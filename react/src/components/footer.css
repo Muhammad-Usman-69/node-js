@@ -1,0 +1,9 @@
+.footer {
+    margin-top: auto;
+    background-color: cadetblue;
+}
+
+.footer p {
+    padding: 0 14px;
+    text-align: center;
+}

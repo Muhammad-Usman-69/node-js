@@ -1,0 +1,10 @@
+.header {
+    background-color: bisque;
+    padding: 14px;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    gap: 30px;
+}
