@@ -20,7 +20,7 @@ function App() {
     <>
       <div className='flex flex-wrap gap-8 m-4 justify-center'>
         {posts && posts.map(post => {
-          return <Card title={post.title} desc={post.body} />;
+          return <Card key={post.id} title={post.title} desc={post.body} />;
         })}
       </div>
     </>
